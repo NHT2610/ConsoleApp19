@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dk3IMypOaaYStLKvQAri0geDMImLPfG17FZuAamm3UkF/9hBVMYcTXL9kotDmERaTuGlwzOPWFTErrbVGyIKbw==",
+  "success": true,
+  "projectFilePath": "D:\\System Architech Source Code Demo\\FlexibleObject\\ConsoleApp19\\ConsoleApp19\\ConsoleApp19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
